@@ -1,0 +1,5 @@
+honeypot  admin_info;staff_info
+general  /var/lib/mysql/smart.log
+refresh_time  3
+threshold  5.0
+expire_sec  120

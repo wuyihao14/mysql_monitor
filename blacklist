@@ -1,0 +1,9 @@
+\d+\s*\'?\s*[\+\-\*\/\=]\s*\'?\s*\d+		3		Potential bypass of the login guard
+union		2		Potential dump of the database
+\'$|\'\'		3		Potential evil detecting vulnerability
+\-\-\s		3		Potential evil trailing attempt
+@@version|sysinfo|information_schema		4		Potential attemp to grab system informations, check your authorization
+load_file		4		Potential evil function call
+/etc/passwd			7		Real attack on /etc/passwd
+administrators		4		Potential evil privilege escalation
+benchmark		3		Potential evil attemp to blind injection

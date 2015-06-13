@@ -1,0 +1,4 @@
+{"info": "Honeypot Triggered", "time": "Mon Jun  1 14:16:28 2015", "level": 7}
+{"info": "Potential brute force attack", "time": "Mon Jun  1 14:16:28 2015", "level": 3}
+{"info": "Potential bypass of the login guard", "time": "Mon Jun  1 14:16:28 2015", "level": "3"}
+{"info": "Potential evil detecting vulnerability", "time": "Mon Jun  1 14:16:28 2015", "level": "3"}
